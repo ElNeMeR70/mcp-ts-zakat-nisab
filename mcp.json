@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-zakat-nisab",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_zakat_nisab",
+      "description": "Execute zakat-nisab MCP tool"
+    }
+  ]
+}
